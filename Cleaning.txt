@@ -1,0 +1,11 @@
+1. Data Cleaning by removing NULL values, removing entities which is not of the same type in same column.
+	a. Cleaning the App Column By removing punctuation.
+	b. Trim Space, Remove Extra Spaces.
+	c. Removed Null Values.
+2. Changed the type of Rating to String type.
+3. All values of Category changed to UPPERCASE.
+4. Android Version: Split by 'and' -> removed Extra spaces -> Split by '-' -> Group and Replaced "4.4W" by "4.4"
+			-> Remove Field Android Split-1 and Created New Android Version -> removed old Android Ver
+5. Genres Grouped And Replace -> Trim Spaces -> Split by ';' and Created New Calculated Field -> merged old Genres into New Genres
+6. Split install by removing '+' and create New Field.
+

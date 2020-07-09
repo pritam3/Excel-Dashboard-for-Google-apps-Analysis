@@ -1,0 +1,21 @@
+
+1. Size of Applications greater than 10mb having rating more than 4.5
+	=SUMIF(Calculation!A4:A42,">=4.5",Calculation!B4:B42)
+
+2. No. of Paid Applications in each Category and No. of Teens use paid Application.
+	
+
+3. Most popular category, by number of installs.
+
+4. The total split between free and paid applications.(Android)
+
+5. Rating Vs Review count.(Slicer, BarGraph)
+
+
+
+
+
+
+
+
+
